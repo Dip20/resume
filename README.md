@@ -114,8 +114,8 @@ I specialize in backend development, project planning, client handling, document
 
 ![Santu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dip20&show_icons=true&hide_rank=false)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=dip20)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dip20&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dip20)
- 
 
