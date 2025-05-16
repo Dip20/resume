@@ -116,6 +116,6 @@ I specialize in backend development, project planning, client handling, document
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dip20&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dip20&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dip20)
  
 
