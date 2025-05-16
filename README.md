@@ -3,7 +3,7 @@
 **Team Lead**  
 Koffeekodes Innovations Private Limited (Formerly Koffeekodes IT Solutions)  
 📍 Surat, Gujarat | Originally from Kolkata, West Bengal  
-📧 santusarkar2020@gmail.com | 📞 +91 8637 55 4692  
+📧 santusarkar 2020 [@] gmail . com 
 🔗 [LinkedIn](https://linkedin.com/in/dip20)
 
 ---
@@ -112,13 +112,10 @@ I specialize in backend development, project planning, client handling, document
 
 ## 📊 GitHub Stats
 
-![Santu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dip20&show_icons=true&theme=radical&hide_rank=false)
+![Santu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dip20&show_icons=true&hide_rank=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dip20&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dip20&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dip20&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&column=6&margin-w=10&margin-h=10)
-
----
+ 
 
